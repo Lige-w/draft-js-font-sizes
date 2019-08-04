@@ -4,7 +4,6 @@ import {Editor, EditorState} from 'draft-js'
 //import draft-js-custom-styles
 import createStyles from 'draft-js-custom-styles'
 
-
 import EditorToolbar from './EditorToolbar'
 
 //use the 'font-size' CSS property with #styles, and #customStyleFn

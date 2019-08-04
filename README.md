@@ -1,7 +1,7 @@
 # Draft.js Font Sizes
 
-This is the code that corresponds to my blog post:  _This Nest Is A Bit Drafty: Utilizing Nested Lists in Draft.js_
+This is the code that corresponds to my blog post:  _Do You Even Draft?: Pumping Up Font Sizes In Draft.js_
 
-Article URL: https://medium.com/@lige.williamson/this-nest-is-a-bit-drafty-709ef8b79073
+Article URL: 
 
 Contact: lige.williamson@gmail.com
